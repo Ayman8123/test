@@ -1,0 +1,39 @@
+[
+	{
+		"Name": "Ayman",
+		"Age": "12",
+		"Job": "engineer",
+		"CPR": "730724859"
+	},
+	{
+		"Name": "Khalid",
+		"Age": "14",
+		"Job": "doctor",
+		"CPR": "856789650"
+	},
+	{
+		"Name": "Ali",
+		"Age": "15",
+		"Job": "teacher",
+		"CPR": "668798450"
+	},
+	{
+		"Name": "Mohmed",
+		"Age": "34",
+		"Job": "lapor",
+		"CPR": "987654678"
+	},
+	{
+		"Name": "Saad",
+		"Age": "45",
+		"Job": "farmer",
+		"CPR": "879089907"
+	},
+	{
+		"Name": "Fahed",
+		"Age": "20",
+		"Job": "solider",
+		"CPR": "346798090"
+	}
+	
+]
